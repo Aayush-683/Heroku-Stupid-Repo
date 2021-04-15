@@ -1,25 +1,16 @@
 {
-  "name": "tutorial-bot",
+  "name": "mistigris-manager",
   "version": "1.0.0",
-  "description": "a simple tutorial bot made for BlackKnight683 on yt",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BlackKnight683/tutorial-bot.git"
-  },
-  "keywords": [
-    "discord"
-  ],
-  "author": "BlackKnight683",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/BlackKnight683/tutorial-bot/issues"
-  },
-  "homepage": "https://github.com/BlackKnight683/tutorial-bot#readme"
+  "keywords": [],
+  "author": "BllackKnight683",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": ">=12.0.0"
+    "canvas": "^2.7.0",
+    "discord.js": "^12.5.1"
   }
 }
