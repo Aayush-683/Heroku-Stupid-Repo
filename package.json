@@ -19,4 +19,7 @@
     "url": "https://github.com/BlackKnight683/tutorial-bot/issues"
   },
   "homepage": "https://github.com/BlackKnight683/tutorial-bot#readme"
+  "dependencies": {
+    "discord.js": ">=12.0.0"
+  }
 }
