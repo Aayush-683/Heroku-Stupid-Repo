@@ -12,4 +12,4 @@ bot.on('message', async message => {
     }
 })
 
-bot.login("token")
+bot.login("Nzc1MjI2Nzg3OTk0MDA5NjMx.X6jQNQ.jmlzodbksWOvkZGV6JE7T46toWc")
