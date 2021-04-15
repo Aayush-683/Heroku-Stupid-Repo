@@ -6,9 +6,9 @@ bot.on('ready', () => {
     console.log("Logged in successfully :D")
 })
 
-bot.on('message', async message => {
+bot.on('message', message => {
     if(message.content === "!ping") {
-        message.channel.send("pong!")
+      return message.channel.send("pong!" + bot.ws.ping)
     }
 })
 
