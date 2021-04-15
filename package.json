@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "a simple tutorial bot made for BlackKnight683 on yt",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackKnight683/tutorial-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "BlackKnight683",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackKnight683/tutorial-bot/issues"
+  },
+  "homepage": "https://github.com/BlackKnight683/tutorial-bot#readme"
+}
