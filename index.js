@@ -8,7 +8,7 @@ bot.on('ready', () => {
 
 bot.on('message', message => {
     if(message.content === "!ping") {
-      return message.channel.send("pong!" + bot.ws.ping)
+        message.channel.send("pong!")
     }
 })
 
